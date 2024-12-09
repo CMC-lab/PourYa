@@ -1,0 +1,564 @@
+{
+  "bedtime": [
+    {
+      "date": "2023-09-12",
+      "bedtime_window": {
+        "start": null,
+        "end": null
+      },
+      "status": "NOT_ENOUGH_DATA"
+    },
+    {
+      "date": "2023-09-14",
+      "bedtime_window": {
+        "start": null,
+        "end": null
+      },
+      "status": "NOT_ENOUGH_DATA"
+    },
+    {
+      "date": "2023-09-15",
+      "bedtime_window": {
+        "start": null,
+        "end": null
+      },
+      "status": "NOT_ENOUGH_DATA"
+    },
+    {
+      "date": "2023-09-17",
+      "bedtime_window": {
+        "start": null,
+        "end": null
+      },
+      "status": "NOT_ENOUGH_DATA"
+    },
+    {
+      "date": "2023-09-18",
+      "bedtime_window": {
+        "start": 900,
+        "end": 4500
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-09-19",
+      "bedtime_window": {
+        "start": 900,
+        "end": 4500
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-09-20",
+      "bedtime_window": {
+        "start": 900,
+        "end": 4500
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-09-21",
+      "bedtime_window": {
+        "start": 1800,
+        "end": 5400
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-09-22",
+      "bedtime_window": {
+        "start": 1800,
+        "end": 5400
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-09-24",
+      "bedtime_window": {
+        "start": 1800,
+        "end": 5400
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-09-25",
+      "bedtime_window": {
+        "start": 1800,
+        "end": 5400
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-09-26",
+      "bedtime_window": {
+        "start": 1800,
+        "end": 5400
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-09-27",
+      "bedtime_window": {
+        "start": 900,
+        "end": 4500
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-09-28",
+      "bedtime_window": {
+        "start": 1800,
+        "end": 5400
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-09-29",
+      "bedtime_window": {
+        "start": 900,
+        "end": 4500
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-01",
+      "bedtime_window": {
+        "start": 900,
+        "end": 4500
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-02",
+      "bedtime_window": {
+        "start": 900,
+        "end": 4500
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-03",
+      "bedtime_window": {
+        "start": 900,
+        "end": 4500
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-04",
+      "bedtime_window": {
+        "start": 900,
+        "end": 4500
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-05",
+      "bedtime_window": {
+        "start": 900,
+        "end": 4500
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-06",
+      "bedtime_window": {
+        "start": 0,
+        "end": 3600
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-08",
+      "bedtime_window": {
+        "start": 0,
+        "end": 3600
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-09",
+      "bedtime_window": {
+        "start": 0,
+        "end": 3600
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-10",
+      "bedtime_window": {
+        "start": 0,
+        "end": 3600
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-11",
+      "bedtime_window": {
+        "start": 0,
+        "end": 3600
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-12",
+      "bedtime_window": {
+        "start": 0,
+        "end": 3600
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-13",
+      "bedtime_window": {
+        "start": 0,
+        "end": 3600
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-15",
+      "bedtime_window": {
+        "start": 0,
+        "end": 3600
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-16",
+      "bedtime_window": {
+        "start": 0,
+        "end": 3600
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-17",
+      "bedtime_window": {
+        "start": 900,
+        "end": 4500
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-18",
+      "bedtime_window": {
+        "start": 900,
+        "end": 4500
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-19",
+      "bedtime_window": {
+        "start": 900,
+        "end": 4500
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-20",
+      "bedtime_window": {
+        "start": 1800,
+        "end": 5400
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-22",
+      "bedtime_window": {
+        "start": 1800,
+        "end": 5400
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-23",
+      "bedtime_window": {
+        "start": 1800,
+        "end": 5400
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-24",
+      "bedtime_window": {
+        "start": 1800,
+        "end": 5400
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-25",
+      "bedtime_window": {
+        "start": 1800,
+        "end": 5400
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-26",
+      "bedtime_window": {
+        "start": 2700,
+        "end": 6300
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-27",
+      "bedtime_window": {
+        "start": 2700,
+        "end": 6300
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-29",
+      "bedtime_window": {
+        "start": 3600,
+        "end": 7200
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-10-30",
+      "bedtime_window": {
+        "start": 3600,
+        "end": 7200
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-01",
+      "bedtime_window": {
+        "start": 3600,
+        "end": 7200
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-02",
+      "bedtime_window": {
+        "start": 3600,
+        "end": 7200
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-03",
+      "bedtime_window": {
+        "start": 3600,
+        "end": 7200
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-04",
+      "bedtime_window": {
+        "start": 3600,
+        "end": 7200
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-05",
+      "bedtime_window": {
+        "start": 3600,
+        "end": 7200
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-06",
+      "bedtime_window": {
+        "start": 3600,
+        "end": 7200
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-07",
+      "bedtime_window": {
+        "start": 3600,
+        "end": 7200
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-08",
+      "bedtime_window": {
+        "start": 3600,
+        "end": 7200
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-09",
+      "bedtime_window": {
+        "start": 3600,
+        "end": 7200
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-10",
+      "bedtime_window": {
+        "start": 3600,
+        "end": 7200
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-11",
+      "bedtime_window": {
+        "start": 3600,
+        "end": 7200
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-13",
+      "bedtime_window": {
+        "start": 3600,
+        "end": 7200
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-14",
+      "bedtime_window": {
+        "start": 3600,
+        "end": 7200
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-15",
+      "bedtime_window": {
+        "start": 3600,
+        "end": 7200
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-16",
+      "bedtime_window": {
+        "start": 4500,
+        "end": 8100
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-17",
+      "bedtime_window": {
+        "start": 4500,
+        "end": 8100
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-18",
+      "bedtime_window": {
+        "start": 4500,
+        "end": 8100
+      },
+      "status": "IDEAL_BEDTIME_AVAILABLE"
+    },
+    {
+      "date": "2023-11-19",
+      "bedtime_window": {
+        "start": null,
+        "end": null
+      },
+      "status": "LOW_SLEEP_SCORES"
+    },
+    {
+      "date": "2023-11-20",
+      "bedtime_window": {
+        "start": null,
+        "end": null
+      },
+      "status": "LOW_SLEEP_SCORES"
+    },
+    {
+      "date": "2023-11-21",
+      "bedtime_window": {
+        "start": null,
+        "end": null
+      },
+      "status": "LOW_SLEEP_SCORES"
+    },
+    {
+      "date": "2023-11-22",
+      "bedtime_window": {
+        "start": null,
+        "end": null
+      },
+      "status": "LOW_SLEEP_SCORES"
+    },
+    {
+      "date": "2023-11-23",
+      "bedtime_window": {
+        "start": null,
+        "end": null
+      },
+      "status": "LOW_SLEEP_SCORES"
+    },
+    {
+      "date": "2023-11-24",
+      "bedtime_window": {
+        "start": null,
+        "end": null
+      },
+      "status": "LOW_SLEEP_SCORES"
+    },
+    {
+      "date": "2023-11-25",
+      "bedtime_window": {
+        "start": null,
+        "end": null
+      },
+      "status": "LOW_SLEEP_SCORES"
+    },
+    {
+      "date": "2023-11-26",
+      "bedtime_window": {
+        "start": null,
+        "end": null
+      },
+      "status": "LOW_SLEEP_SCORES"
+    },
+    {
+      "date": "2023-11-27",
+      "bedtime_window": {
+        "start": null,
+        "end": null
+      },
+      "status": "LOW_SLEEP_SCORES"
+    },
+    {
+      "date": "2023-11-28",
+      "bedtime_window": {
+        "start": null,
+        "end": null
+      },
+      "status": "LOW_SLEEP_SCORES"
+    },
+    {
+      "date": "2023-11-29",
+      "bedtime_window": {
+        "start": null,
+        "end": null
+      },
+      "status": "LOW_SLEEP_SCORES"
+    },
+    {
+      "date": "2023-11-30",
+      "bedtime_window": {
+        "start": null,
+        "end": null
+      },
+      "status": "LOW_SLEEP_SCORES"
+    }
+  ]
+}
