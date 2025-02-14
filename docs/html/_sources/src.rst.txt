@@ -1,0 +1,21 @@
+src package
+===========
+
+Submodules
+----------
+
+src.oura\_data\_handler module
+------------------------------
+
+.. automodule:: src.oura_data_handler
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: src
+   :members:
+   :undoc-members:
+   :show-inheritance:
