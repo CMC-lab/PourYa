@@ -126,7 +126,6 @@ The *PourYa* library is instantiated with the API endpoint, local CSV paths, and
 1. Oura Ring. (n.d.). *Oura Ring Official Website*. Retrieved from [https://ouraring.com](https://ouraring.com)
 2. pandas documentation. (n.d.). *pandas: Python Data Analysis Library*. Retrieved from [https://pandas.pydata.org](https://pandas.pydata.org)
 3. matplotlib documentation. (n.d.). *matplotlib: Python plotting library*. Retrieved from [https://matplotlib.org](https://matplotlib.org)
-4. Truong, C., Oudre, L., & Vayatis, N. (2020). *Selective review of offline change point detection methods*. Signal Processing, 167, 107299.
 
 ## Acknowledgements
 
