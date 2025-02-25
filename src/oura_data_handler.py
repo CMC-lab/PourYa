@@ -46,7 +46,7 @@ class OuraDataHandler:
             adjusted_date = parsed_date
         return adjusted_date.strftime(date_format)
 
-    def fetch_data_from_api(self, data_type: str, start_date: str, end_date: str = None, duration: str = None) -> pd.DataFrame:
+    def fetch_data_from_api(self, data_type: str, start_date: str, end_date: str = None, duration: str = None, save_file: bool = False, filename: str = None) -> pd.DataFrame:
         """
         Fetch data from the Oura API for a specific type and date range.
 
@@ -94,8 +94,27 @@ class OuraDataHandler:
             return pd.DataFrame()
 
         print('done!')
-        return pd.DataFrame.from_dict(response_json, orient='columns')
-
+        df = pd.DataFrame.from_dict(response_json, orient='columns')
+        if save_file:
+            if df.empty:
+                print("No data available to save.")
+                return
+            df.to_csv(filename, index=False)
+        print(f"Data successfully saved to {filename}")
+        return df
+    def save_to_csv(self, df: pd.DataFrame, filename: str):
+        """
+        Save the given DataFrame to a CSV file.
+    
+        :param df: Data to be saved (Pandas DataFrame).
+        :param filename: Name of the CSV file.
+        """
+        if df.empty:
+            print("No data available to save.")
+            return
+    
+        df.to_csv(filename, index=False)
+        print(f"Data successfully saved to {filename}")
     def load_data_from_csv(self, data_type: str, start_date: str, end_date: str = None, duration: str = None) -> pd.DataFrame:
         """
         Load data from a local CSV file for a specific type and date range.
